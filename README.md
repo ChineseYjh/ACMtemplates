@@ -1,3 +1,3 @@
 # ACMtemplates
 
-**Just a little important templates of ACM**
+**Just a few of important templates of ACM**
